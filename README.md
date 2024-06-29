@@ -1,5 +1,5 @@
-# Join Units Network Testnet
-* [Link](https://app.units.network/?referral=0xd54ae0024583De18971056236445EACf6eACb25F)
+# Units Network Testnet
+* Join [here](https://app.units.network/?referral=0xd54ae0024583De18971056236445EACf6eACb25F)
 * Get faucet [here](https://faucet-testnet.unit0.dev/)
 
 ### Install Dependecies
