@@ -134,5 +134,5 @@ node unitstx.js
 ```
 * Enter Private-key of your Evmos Station (first node)
 * Enter Receipt Address: a random 0x.. address
-* Enter a range of Amount of the tokens you want to send: 0.0001,0.002
-* Enter a range of delays between txs in seconds: 30,60
+* Enter a range of Amount of the tokens you want to send: 0.0000001,0.00002
+* Enter a range of delays between txs in seconds: 8,10
